@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string-array name="recipe_categories">
+        <item>Vegetarian</item>
+        <item>Pescatarian</item>
+        <item>Meat-Based</item>
+        <item>Vegan</item>
+        <item>Cheese Lover’s</item>
+        <item>Gluten-Free</item>
+        <item>Comfort Food</item>
+        <item>Ethnic Cuisine</item>
+        <item>Customizable</item>
+        <item>Quick &amp; Easy</item>
+        <item>Family-Friendly</item>
+        <item>Low-Carb</item>
+        <item>High-Protein</item>
+        <item>Seasonal</item>
+        <item>Gourmet</item>
+        <item>Meal Prep</item>
+    </string-array>
+
+
+</resources>
